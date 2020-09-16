@@ -1,0 +1,1 @@
+// =================================================================================//	MyRoute.h	 		©1999 Sustainable Softworks. All rights reserved.// =================================================================================// additional definitions for mentat "route.h"typedef UInt16 ushort;typedef UInt32 ulong;typedef UInt32 uint;#include "route.h"
